@@ -1,1 +1,1 @@
-# istio-yamls
+# Blue-Green Deployment Yamls
